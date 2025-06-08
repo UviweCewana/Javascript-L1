@@ -17,7 +17,10 @@ a{
     color: darkcyan;
     text-decoration: none;
     text-align: center;
-    padding-left: 170px;
+    padding-left: 150px;
+    padding-right: 150px;
+    position: fixed;
+    text-wrap: nowrap;
    
 }
 a:hover {
