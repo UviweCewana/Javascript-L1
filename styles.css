@@ -17,11 +17,11 @@ a{
     color: darkcyan;
     text-decoration: none;
     text-align: center;
-    padding-left: 150px;
+    padding-left: 160px;
     padding-right: 150px;
     position: fixed;
     text-wrap: nowrap;
-   
+
 }
 a:hover {
     color: darkcyan;
