@@ -15,11 +15,11 @@ h2{
 a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: darkcyan;
+    width: 100%;
     text-decoration: none;
     text-align: center;
-    padding-left: 160px;
-    padding-right: 150px;
-    position: fixed;
+    position: relative;
+    display: inline-block;
     text-wrap: nowrap;
 
 }
